@@ -1,2 +1,1 @@
-# PrepCourse-Chirs
-Repositorio de prueba del modulo 2 del PrepCourse de Henry
+Prueba de como crear un repositorio y clonarlo al escritorio local
